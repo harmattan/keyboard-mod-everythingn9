@@ -1,0 +1,14 @@
+Source: keyboard-mod-everythingn9
+Section: user/utilities
+Priority: extra
+Maintainer: Thomas Perl <m@thp.io>
+Build-Depends: debhelper (>= 7.0.0)
+Standards-Version: 3.9.3
+Homepage: http://talk.maemo.org/showthread.php?t=88241
+
+Package: keyboard-mod-everythingn9
+Architecture: all
+Depends: ${misc:Depends}
+Description: Modified US and UK keyboards from Everything N9
+ Better utilization of space, apostrophe on default page,
+ arrow keys, spacebar on the right, numbers on the left side.
